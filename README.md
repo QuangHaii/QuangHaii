@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF"> <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF"> <img src="https://github.com/user-attachments/assets/18de200d-2101-4bc2-97ee-8a8534c850ce" width="25" height="25" alt="GIF">
+# <img src="https://github.com/user-attachments/assets/84452264-4f6f-4591-a9ec-90f9266e2bca" width="100" height="80" alt="GIF"> WELCOME TO MY GITHUB <img src="https://github.com/user-attachments/assets/84452264-4f6f-4591-a9ec-90f9266e2bca" width="100" height="80" alt="GIF">
 
 My name is Lai Quang Hai. I graduated from Sai Gon University, majoring in Software Engineering. I am a software developer with experience building desktop and web applications. I have worked with technologies such as C#, WPF, ASP.NET, Java to enhance
  user experiences and system performance. 
